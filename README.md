@@ -4,3 +4,5 @@ This file contains of computer vision studies I have done
 2. Hybrid Images
 3. Seam Carving
 4. Hough Transform
+5. Blob Detection
+6. Faking Miniature
